@@ -1,2 +1,2 @@
-# Business-Card
-This is a business card for desktop and mobile using HTML &amp; CSS.
+# Business-Card-d
+This is a business card for desktop using HTML &amp; CSS.
